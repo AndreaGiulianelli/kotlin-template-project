@@ -1,7 +1,7 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="Andrea Giulianelli">
     <module2copyright>
-      <element module="All" copyright="SmartOperatingBlock" />
+      <element module="All" copyright="CopyrightProfile" />
     </module2copyright>
   </settings>
 </component>
