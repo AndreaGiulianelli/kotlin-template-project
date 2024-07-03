@@ -89,7 +89,7 @@ jobs:
           container-registry-name: 'ghcr.io'
           container-registry-username: ${{ github.actor }}
           container-registry-password: ${{ secrets.GITHUB_TOKEN }}
-          github-token: ${{ secrets.DEPLOYMENT_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           
   documentation-deploy:
     needs:
