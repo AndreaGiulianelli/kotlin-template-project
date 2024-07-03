@@ -82,7 +82,7 @@ jobs:
         with:
           node-version: ${{ steps.node-version.outputs.version }}
       - name: Release and container delivery
-        uses: SmartOperatingBlock/release-and-delivery-action@1.0.11
+        uses: AndreaGiulianelli/release-and-delivery-action@1.0.0
         with:
           should-release: true
           release-command: |
