@@ -49,6 +49,9 @@ jobs:
 
   release-and-delivery:
     permissions:
+      contents: write
+      issues: write
+      pull-requests: write
       packages: write
     concurrency:
         # Allow only one release at a time.
