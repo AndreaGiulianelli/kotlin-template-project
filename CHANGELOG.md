@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.0...1.0.1) (2024-07-04)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2 ([6c2e3f6](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/6c2e3f61e719a61163ec7473eedad8d20e3f8ef6))
+* **deps:** update alpine docker tag to v3.20 ([93ed858](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/93ed85880a4b303e3ad476a9ee378cf9ff8c696c))
+* **deps:** update kotest to v5.8.1 ([7c04f83](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/7c04f83dcc47b1ec823aeae760931a3188ab2ec4))
+* **deps:** update kotest to v5.9.1 ([4ff5103](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/4ff510332d039a42bd5511e22a76350dba29eff1))
+* **deps:** update plugin kotlin-qa to v0.61.1 ([72fd91e](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/72fd91e1df7111044a5aab5c5161f1021e8d8baa))
+
 ## 1.0.0 (2024-07-03)
 
 ### Dependency updates
