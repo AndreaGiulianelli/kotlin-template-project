@@ -1,3 +1,22 @@
+## [1.0.2](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.1...1.0.2) (2024-07-10)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.87 ([e1ffd68](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e1ffd68e646a8fd013a418a17c18f114e9df052a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.89 ([83938f7](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/83938f75719adf7932db7b0d4f31c5219a0a0461))
+* **deps:** update plugin kotlin-qa to v0.62.0 ([25b19b3](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/25b19b304e837a6a90906f69725d3b55cd184134))
+* **deps:** update plugin kotlin-qa to v0.62.2 ([3e3ee95](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/3e3ee957bf31f31d7075d3abe7019153e1f43264))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.4 ([b68dc16](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/b68dc1627c01f5fb8819da7461b1c6145fe61924))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.6 ([05e0cc3](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/05e0cc364b1732af41a7f29d5221d71389152036))
+
+### Documentation
+
+* **deps:** update plugin dokka to v1.9.20 ([e2a86dc](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e2a86dcfa1618bf1fd0b330be14f09deaedf0d3a))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.0.3 ([cfcdbe6](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/cfcdbe691ae3e99803c5ca0b13dd22c09b925b53))
+
 ## [1.0.1](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.0...1.0.1) (2024-07-04)
 
 ### Dependency updates
