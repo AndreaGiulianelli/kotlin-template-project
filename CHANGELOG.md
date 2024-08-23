@@ -1,3 +1,18 @@
+## [1.0.4](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.3...1.0.4) (2024-08-23)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.0.20 ([91893ba](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/91893ba45ae9bb4148d149db13f638c583536a91))
+* **deps:** update dependency gradle to v8.10 ([48ddcd2](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/48ddcd2ec11fa5cf8138a1ac069be92911766d63))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.96 ([ae197f7](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/ae197f73d21eb01a05953e46314e794efd43e6d3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.97 ([a660238](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/a6602387c31681d83d0d755307ca4f45509922e9))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.98 ([d98a268](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/d98a2688c2542c543725d75fd251910a2c12af44))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.99 ([7dfd937](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/7dfd9371deb2581641f91bf19eb4019e39d66bca))
+* **deps:** update node.js to 20.17 ([92cf282](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/92cf282552be2e6a3a9cdb4b20ec1dffb85ea1ba))
+* **deps:** update plugin com.gradle.develocity to v3.18 ([ec678ee](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/ec678eebb60968a92989ff98c42d5d12b2107591))
+* **deps:** update plugin kotlin-qa to v0.65.1 ([db6c4a4](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/db6c4a48996ddacf372f134269dceefc614c0c05))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.9 ([b7950fc](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/b7950fcd5e4c3431d1413dd015d9be523eff9e1c))
+
 ## [1.0.3](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.2...1.0.3) (2024-08-06)
 
 ### Dependency updates
