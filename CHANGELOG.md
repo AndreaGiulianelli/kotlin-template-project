@@ -1,3 +1,37 @@
+## [1.0.5](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.4...1.0.5) (2024-10-11)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin.jvm to v2.0.21 ([21ef64d](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/21ef64d9e1b485e8ca53aa8673e619177901ebc5))
+* **deps:** update dependency gradle to v8.10.1 ([3be92f3](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/3be92f31c56960424f41d85265f5fc09403bcf67))
+* **deps:** update dependency gradle to v8.10.2 ([ba02843](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/ba028430f3528baa70e149a5b89d776dd3bb934d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.101 ([5632af8](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/5632af8abaaa9d7d5692ca045d8b85f3b5c6a63c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.102 ([15b3052](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/15b30523977f4b5e52e6373b11c6b0351e147e3d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.103 ([7f4c1fb](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/7f4c1fb36418cca3b278ea3b0a045df3e0d165b8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.104 ([f1fb6aa](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/f1fb6aa6b92dedacdf8000bc7305c5e021a94fc1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.105 ([cea3af0](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/cea3af0cb2c635bc03cb2793f4bbde82becd6cd5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.106 ([bbeb88f](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/bbeb88fb6d6ff0f95049b43e7ec68e5615effe39))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.107 ([8b4fd24](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/8b4fd241401341d56551310f5d5d297be257a522))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.108 ([250b964](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/250b964279d63c7aebf4f574e7a0d6692e633329))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.109 ([218bea6](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/218bea603af5288efa8dbd1235dd8fb9db8a2260))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([0121473](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/0121473936d3982956aa02673e52c38281e477f7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([f7f572c](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/f7f572c7565686bebf1184e4a8e55b048d2a4349))
+* **deps:** update node.js to 20.18 ([9992a4d](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/9992a4da456ed437d951b45bff7d9970df11212a))
+* **deps:** update plugin com.gradle.develocity to v3.18.1 ([f5830c0](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/f5830c003056ffdf15ddb93cdf0352230b2dc14e))
+* **deps:** update plugin kotlin-qa to v0.65.2 ([099370c](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/099370c213bb59fdf2f109fcf6e13e468d44e6ab))
+* **deps:** update plugin kotlin-qa to v0.66.1 ([e5ba634](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e5ba634bb07380647751687edf1e0fbccd65e550))
+* **deps:** update plugin kotlin-qa to v0.67.1 ([bc585d8](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/bc585d8cc5bf58a68aaa5036902d5c426913db81))
+* **deps:** update plugin kotlin-qa to v0.67.2 ([e1fecac](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e1fecac3a974690abeee297c95350acc879a94d0))
+* **deps:** update plugin kotlin-qa to v0.67.3 ([2f23224](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/2f232241da08f57ddb6d39bbb641223f1b4134eb))
+* **deps:** update plugin kotlin-qa to v0.68.0 ([1ab435b](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/1ab435b6283971cf8a232db2921a40273fbd3da4))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.12 ([86f2870](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/86f28704037566524eb7510d11b3ce3a54e4ca96))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.13 ([6af354d](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/6af354d862cbc6303640e91a823565e69b173744))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.0.4 ([3dd2f39](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/3dd2f395b9964b792defbcafb45249df50821713))
+* **deps:** update codecov/codecov-action action to v4.6.0 ([cf89f29](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/cf89f29d46e5bec96538e94f14c5ed18a2627f5b))
+
 ## [1.0.4](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.3...1.0.4) (2024-08-23)
 
 ### Dependency updates
