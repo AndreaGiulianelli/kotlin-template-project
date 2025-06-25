@@ -1,3 +1,12 @@
+## [1.0.10](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.9...1.0.10) (2025-06-25)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.2.0 ([#137](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/137)) ([d946c59](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/d946c59462fdd3ee0eefd519db87b19a0488b7e6))
+* **deps:** update alpine docker tag to v3.22 ([#136](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/136)) ([59190e0](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/59190e0ce273939e8a780d94801a340f96f474bf))
+* **deps:** update node.js to 22.16 ([#133](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/133)) ([8c97ead](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/8c97ead1e640c407319e3601c180b105e4469fbc))
+* **deps:** update node.js to 22.17 ([#138](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/138)) ([b8b1dca](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/b8b1dcabf8126d9f6fde6bb4188915a2a6cef3ab))
+
 ## [1.0.9](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.8...1.0.9) (2025-05-24)
 
 ### Dependency updates
