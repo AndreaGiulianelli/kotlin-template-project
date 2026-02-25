@@ -1,3 +1,19 @@
+## [1.0.15](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.14...1.0.15) (2026-02-25)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.3.10 ([#199](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/199)) ([35dccda](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/35dccda2140ece2834a11df3bc9e38b7ef6db777))
+* **deps:** update kotest to v6.1.0 ([#196](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/196)) ([427333b](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/427333b7862127a79ca05f1b785a53784da4544d))
+* **deps:** update kotest to v6.1.2 ([#197](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/197)) ([079427d](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/079427d005bf5105737772d071bf606f55a33916))
+* **deps:** update kotest to v6.1.3 ([#200](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/200)) ([6a536c7](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/6a536c7ea617a0f6eb6dd76a9acb3c9c256eca67))
+* **deps:** update node.js to 24.13 ([#193](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/193)) ([f9cad8b](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/f9cad8b07e0cff285d6221be777b7583869a0d23))
+* **deps:** update node.js to 24.14 ([#203](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/203)) ([0c5adb4](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/0c5adb40649997538e446a7cf839cb3eadc75195))
+* **deps:** update plugin com.gradle.develocity to v4.3.1 ([#195](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/195)) ([733eea2](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/733eea259f3a68774f5528307dae68dbe4594c04))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.2.0 ([#194](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/194)) ([ac2a25e](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/ac2a25e9e79733f8bcc2ec552d6bb32465f97e4b))
+
 ## [1.0.14](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.13...1.0.14) (2025-12-17)
 
 ### Dependency updates
