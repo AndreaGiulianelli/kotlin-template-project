@@ -8,7 +8,7 @@
 
 plugins {
     id("org.danilopianini.gradle-pre-commit-git-hooks") version "2.0.28"
-    id("com.gradle.develocity") version("4.3.1")
+    id("com.gradle.develocity") version("4.3.2")
 }
 
 rootProject.name = "kotlin-template-project"
