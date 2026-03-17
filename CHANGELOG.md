@@ -1,3 +1,17 @@
+## [1.0.16](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.15...1.0.16) (2026-03-17)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.3.20 ([#208](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/208)) ([8227af8](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/8227af81a015349a046e04a1caa41885a4a4f21c))
+* **deps:** update kotest to v6.1.5 ([#204](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/204)) ([ca8b75b](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/ca8b75b2f90f0416dad66b3e96b84ffd847c2a33))
+* **deps:** update kotest to v6.1.6 ([#206](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/206)) ([9758a5f](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/9758a5f2b3e0beedb52e6fa31b3236e576e605ab))
+* **deps:** update kotest to v6.1.7 ([#207](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/207)) ([e12fdcc](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e12fdccdcab3bfc7e81f26687f475614eb275d17))
+* **deps:** update plugin com.gradle.develocity to v4.3.2 ([#198](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/198)) ([edf55e7](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/edf55e70a0a64b738a51b177f4dc221a3d15f099))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.3.0 ([#205](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/205)) ([c5e9913](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/c5e99132690a7c5d9a78a1b7f4f29a4e620aad40))
+
 ## [1.0.15](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.14...1.0.15) (2026-02-25)
 
 ### Dependency updates
