@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.17...1.0.18) (2026-06-18)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.4.0 ([#222](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/222)) ([91d502a](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/91d502adb7b8d52a96fe5bb8d8daa7ccac694e2c))
+* **deps:** update plugin com.gradle.develocity to v4.4.3 ([#221](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/221)) ([44a8842](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/44a8842234fc43361f5f7b1f317380e45b3aefcd))
+
 ## [1.0.17](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.16...1.0.17) (2026-06-13)
 
 ### Dependency updates
