@@ -1,3 +1,23 @@
+## [1.0.19](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.18...1.0.19) (2026-07-15)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.4.10 ([#233](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/233)) ([df7bbc8](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/df7bbc8ef0aa0c695a28d90bf699c0ac3e397272))
+* **deps:** update kotest to v6.2.0 ([#225](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/225)) ([5bd7882](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/5bd7882c2cc4bbf85f1ad656ac6d0410494fc57d))
+* **deps:** update kotest to v6.2.1 ([#227](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/227)) ([4ce0c08](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/4ce0c0890f10eb90b9c54f0b24166c7d30aa2091))
+* **deps:** update kotest to v6.2.2 ([#230](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/230)) ([14223c7](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/14223c7ae2ca5986c1d0b5db0ebf1368b1fe51b5))
+* **deps:** update node.js to 24.17 ([#220](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/220)) ([5e236a4](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/5e236a44cb99f0354454796e9159d837852f11b7))
+* **deps:** update node.js to 24.18 ([#228](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/228)) ([6b78d82](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/6b78d8221ac45394fe1bc71a4aa581930921a09f))
+* **deps:** update plugin com.gradle.develocity to v4.5.0 ([#229](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/229)) ([60cdcd1](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/60cdcd1941d256309f1d1900e719fe7de1006bc2))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v7 ([#226](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/226)) ([588b9aa](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/588b9aa5ada04d95a83eb9dd277db4fa36d7ad2a))
+* **deps:** update actions/setup-node action to v6.4.0 ([#216](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/216)) ([e8aa987](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e8aa987f0bad06c71427fbdff2858ba4c76b3dc5))
+* **deps:** update actions/setup-node action to v6.5.0 ([#231](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/231)) ([1bb7a05](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/1bb7a05c5e9db687be1954c2d120935e4dd531dc))
+* **deps:** update codecov/codecov-action action to v6 ([#213](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/213)) ([0e055b6](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/0e055b6931c8ecf903c0b7f60a1f25de5e05a3f3))
+* **deps:** update codecov/codecov-action action to v7 ([#223](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/223)) ([9ed008b](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/9ed008b49b5f9aca999636a04a59201e7d802673))
+
 ## [1.0.18](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.17...1.0.18) (2026-06-18)
 
 ### Dependency updates
