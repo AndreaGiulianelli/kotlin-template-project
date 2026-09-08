@@ -1,3 +1,17 @@
+## [1.0.20](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.19...1.0.20) (2026-09-08)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.4.20 ([#239](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/239)) ([f967b64](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/f967b6496a5b6dd91ecd24442f0d6315e1fc3285))
+* **deps:** update kotest to v6.2.3 ([#234](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/234)) ([95f73e2](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/95f73e208f2202748b267cbc5015a28c22890482))
+* **deps:** update kotest to v6.2.4 ([#236](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/236)) ([bb1ae24](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/bb1ae2441229a5c0e7ce1777d8fb7707ab88b4fa))
+* **deps:** update node.js to 24.19 ([#235](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/235)) ([2898882](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/28988822a85823e42a2af72ac3d195f9f8e18ace))
+* **deps:** update node.js to 24.20 ([#238](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/238)) ([a7e1078](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/a7e1078ba6729f178e0c80c16dc9cc2a31c4b4ae))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v7 ([#232](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/232)) ([2b60e93](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/2b60e936e6e776e5295cc2b2805b90d2a330aaa1))
+
 ## [1.0.19](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.18...1.0.19) (2026-07-15)
 
 ### Dependency updates
