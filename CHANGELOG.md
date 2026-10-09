@@ -1,3 +1,17 @@
+## [1.0.21](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.20...1.0.21) (2026-10-09)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.4.21 ([#246](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/246)) ([8b47778](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/8b47778633ff6a3bc57733ad5829672c29f80ed3))
+* **deps:** update kotest to v6.2.5 ([#242](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/242)) ([26b222e](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/26b222e1bb83db712b02699d4066dfee9ae0cfd7))
+* **deps:** update node.js to 24.21 ([#240](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/240)) ([e5f6fa1](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/e5f6fa110cc75906418f61eb4608eee194cd298a))
+* **deps:** update plugin com.gradle.develocity to v4.5.1 ([#241](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/241)) ([aea1f7d](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/aea1f7d992dd65efca18ad805533f7e9d2005b5c))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v7.1.0 ([#245](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/245)) ([2f6f0a2](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/2f6f0a2c18575e59281c33a8f878cfc785c9dba9))
+* **deps:** update codecov/codecov-action action to v7.1.1 ([#243](https://github.com/AndreaGiulianelli/kotlin-template-project/issues/243)) ([912fa19](https://github.com/AndreaGiulianelli/kotlin-template-project/commit/912fa19ae9298458ec3704c9952dee6c1949c016))
+
 ## [1.0.20](https://github.com/AndreaGiulianelli/kotlin-template-project/compare/1.0.19...1.0.20) (2026-09-08)
 
 ### Dependency updates
